@@ -2,7 +2,7 @@
     border: solid white 2px;
     margin-left: 20px;
     margin-right: 10px;
-    width: 400px;
+    width: 500px;
     height: 300px;
 
     display: flex;
@@ -13,10 +13,10 @@
 
 .big-card__title > h1{
     font-size: 22px;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .big-card__description{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .big-card__description > p > a{
